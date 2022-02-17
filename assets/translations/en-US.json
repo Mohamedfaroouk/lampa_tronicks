@@ -1,0 +1,107 @@
+{
+
+"first drawer": "Sales",
+"sec drawer": "My Order",
+"third drawer": "Favourite Products",
+"forth drawer": "Logout",
+"fifth drawer": "Log out",
+
+
+
+
+"category" : "Category",
+"showall" : "Show all",
+"featureprod" : "Featured Products",
+"home" : "Home",
+"profile" : "Profile",
+"sr" : "SR",
+"kg" : "Kg",
+"confirm" : "Confilrm",
+"get" : "Get it Now",
+
+
+
+
+
+"sort" : "Sort",
+"search" : "Search",
+"htm" : "Price (max to min)",
+"mth" : "Price (min to max)",
+"recent" : "Recent added",
+"sortby" : "Sorting by",
+
+
+
+
+
+"cart":"Cart",
+"cartitem":"Shopping Cart Items",
+"fee":"Delivery Fee",
+
+
+"total":"Total",
+"checkout":"CheckOut",
+
+
+
+
+
+  "email": "Email",
+  "password": "Password",
+
+
+  "adress": "Address",
+ 
+  "price": "Price",
+  "date": "Date",
+
+  "login": "Log in",
+  "forget": "Forget Password",
+  "register": "Register",
+  "registerbut": "Sign Up",
+
+  "reset": "Reset",
+
+  "enter mail": "Enter your email",
+  "enter pass": "Enter your password",
+
+  "plname": "Please enter your name",
+  "plage": "Please enter your age",
+  "plwei": "Please enter your weight",
+  "pllen": "Please enter your length",
+  "plnum": "Please enter your phon",
+  "plema": "Please enter your email",
+  "plpas": "Please enter your Password",
+  "addacc": "Account Added succefully",
+  "weakpass": "weak password",
+  "emailuse": "email already in use",
+
+  "wrongpass": "wrong password",
+  "notfndusr": "user not found",
+  "chkmail": "Check Your Email",
+  "enter new pass": "Enter New Password",
+  "change pass": "Change Password",
+  "confirm pass": "Confirm Password",
+
+
+  "lve comment" : "Leave any comment",
+  "pladd" : "Add New Adress",
+  "add adress" : "Add Address",
+
+  "book" : "Booking",
+  "lang" : "عربي",
+  "send" : "send",
+  "type" : "Type your messege here...",
+  "changelang" : "Change Language",
+  "clicktolod": "Click here to SignIn",
+  "clicktoreg": "Dont Have Acount? Click here to Sign Up",
+
+
+"show":"View",
+"hide":"Hide",
+ 
+ 
+
+  "resalert" : "You have to retry to login",
+  "resalertsucess" : "Successfully changed password."
+}
